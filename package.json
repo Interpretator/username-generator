@@ -1,6 +1,6 @@
 {
-  "name": "random-username-generator",
-  "version": "1.0.4",
+  "name": "nickname-generator-nodejs",
+  "version": "1.0.5",
   "description": "a simple package to create username",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,6 @@
     "username",
     "creator"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MaPhil/username-generator.git"
-  },
-  "homepage": "https://github.com/MaPhil/username-generator#readme",
-  "author": "MaPhil <phil.m.mainz@gmail.com>",
+  "author": "Nazar32",
   "license": "MIT"
 }
